@@ -8,9 +8,14 @@ Prof. Roberto Colistete Júnior ([CV Lattes](http://lattes.cnpq.br/6503578618806
 
 - **"Computação de Alto Desempenho Usando Numba para Cálculo de Agregação de Matéria". Flávio Manoel Santos Hemerli**. Orientador: Roberto Colistete Júnior. Trabalho de Conclusão de Curso em Licenciado em Física da UFES-Alegre, **defendido em 11/07/2019**. Usou Python e Numba para cálculos de simulação de aglomeração de matéria usando paralelismo de CPU e GPU;
 
+- **"Confecção de um Pré-protótipo de Magnetômetro Unidimensional". Nathália Gobira Galvão**. Orientador: Roberto Colistete Júnior. Trabalho de Conclusão de Curso em Licenciado em Física da UFES-Alegre, **defendido em 13/12/2019**. Usou MicroPython em microcontrolador BBC Micro:bit com um magnetômetro fluxgate FLC-100 e ADC de 16 bits;
+
 ### 2018 :
 
 - **"EstGeiger: Proposta de solução IoT para medição de níveis de radiação com transmissão LoRa". Gabriel Favalesso Fraga.** Orientador: Prof. Dr. Roberto Colistete Jr. Coorientador: Prof. Dr. Moisés Renato Nunes Ribeiro. Projeto de Graduação em Engenharia de Computação da UFES-Vitória, **defendido em 07/12/2018**. Utilizou medidores microcontroladores MicroPython Pycom LoPy4 em nós LoRaWan com medidores Geiger, envio de dados via LoRaWan a nano-gateway LoRaWan/WiFi com LoPy4, servidor LoRaWan TTN (The Things Network), IoT Cloud MyDevices Cayenne e UbiDots. Operou 1 ano e 8 meses em Meaípe/Guarapari-ES, desde 11/2018. Conseguiu 4 km de alcance LoRa em ambiente externo em testes na praia de Camburi e 1 km na praia de Meaípe com gateway no Hotel da Léa (ambiente urbano frente à praia). Nova versão está sendo desenvolvida;
+
+- **"Análise da Relação Sinal/Ruído de um Dispositivo Sísmico Confeccionado a Baixo Custo Utilizando os Sensores Geofone e Acelerômetro MEMS". Luiz Felipe Lempê**. 
+Orientador: Roberto Colistete Júnior. Trabalho de Conclusão de Curso em Geologia da UFES-Alegre, **defendido em 07/12/2018**. Utilizou Raspberry Pi 3B, geofone, acelerômetro MEMS e ADC de 16 bits, permitindo fazer medições sísmicas e sismológicas em Alegre-ES;
 
 - **["EstAcqua](https://informatica.ufes.br/pt-br/pos-graduacao/PPGI/detalhes-da-tese?id=12702) : Proposta de solução integrada de Hardware, Software para monitoramento ambiental". Alan A. Helal**. Orientador: Rodolfo da Silva Villaça. Coorientador: Roberto Colistete Júnior. Projeto de Mestrado em Informática da UFES-Vitória, **defendido em 27/08/2018**. Utilizou microcontroladores MicroPython Pycom LoPy4 em nós LoRaWan com sensores ambientais submersos e de superfície, envio de dados via LoRaWan a nano-gateway LoRaWan/WiFi com LoPy4, servidor LoRaWan TTN (The Things Network), IoT Cloud MyDevices Cayenne. Operou por alguns meses em ambiente externo em 2018 no Lago Terra Alta/Linhares-ES. Nova versão está sendo desenvolvida.  
 Artigo :
