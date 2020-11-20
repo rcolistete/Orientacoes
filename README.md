@@ -1,2 +1,6 @@
-# Orientacoes
-Orientações de trabalhos de pesquisa, concluídos e em andamento
+# Orientações de trabalhos de pesquisa, concluídos e em andamento
+
+- **"EstGeiger: Proposta de solução IoT para medição de níveis de radiação com transmissão LoRa". Gabriel Favalesso Fraga.** Orientador: Prof. Dr. Roberto Colistete Jr. Coorientador: Prof. Dr. Moisés Renato Nunes Ribeiro. Projeto de Graduação em Engenharia de Computação da UFES-Vitória, defendido em 07/12/2018. Utilizou medidores microcontroladores MicroPython Pycom LoPy4 em nós LoRaWan com medidores Geiger, envio de dados via LoRaWan a nano-gateway LoRaWan com LoPy4, servidor LoRaWan TTN (The Things Network), IoT Cloud MyDevices Cayenne e UbiDots. Operou 1 ano e 10 meses em Meaípe/Guarapari-ES, desde 11/2018. Nova versão está sendo desenvolvida;
+
+- **"UVLoRA: Monitoramento de Radiação UV com IoT". Nélio Gonçalves Godoi.** Orientador: Prof.: Dr. Roberto Colistete Jr. Trabalho de Conclusão de Curso em Sistemas de Informação da UFES-Alegre, defendido em 12/12/2019. Utilizou medidores microcontroladores MicroPython Pycom LoPy4 em nós LoRa com sensor UV (UltraVioleta), envio de dados via LoRa a nano-gateway LoRa com LoPy4, IoT Cloud UbiDots e Adafruit IO. Operou no final de 2019 por algumas semanas para testes, em Alegre-ES. Conseguiu 4 km de alcance LoRa em ambiente externo no interior de Alegre. Nova versão está sendo desenvolvida;
+
