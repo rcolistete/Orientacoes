@@ -1,6 +1,22 @@
-# Orientações de trabalhos de pesquisa, concluídos e em andamento
+# Orientações e coorientações de trabalhos de pesquisa, concluídos e em andamento
 
-- **"EstGeiger: Proposta de solução IoT para medição de níveis de radiação com transmissão LoRa". Gabriel Favalesso Fraga.** Orientador: Prof. Dr. Roberto Colistete Jr. Coorientador: Prof. Dr. Moisés Renato Nunes Ribeiro. Projeto de Graduação em Engenharia de Computação da UFES-Vitória, defendido em 07/12/2018. Utilizou medidores microcontroladores MicroPython Pycom LoPy4 em nós LoRaWan com medidores Geiger, envio de dados via LoRaWan a nano-gateway LoRaWan com LoPy4, servidor LoRaWan TTN (The Things Network), IoT Cloud MyDevices Cayenne e UbiDots. Operou 1 ano e 10 meses em Meaípe/Guarapari-ES, desde 11/2018. Nova versão está sendo desenvolvida;
+Prof. Roberto Colistete Júnior ([CV Lattes](http://lattes.cnpq.br/6503578618806955)) - [UFES/Alegre-ES](https://alegre.ufes.br/) - [CCENS (Centro de Ciências Exatas, Naturais e da Saúde)](https://alegre.ufes.br/ccens/direcao) - [Departamento de Química e Física](https://alegre.ufes.br/ccens/departamento-de-quimica-e-fisica).
 
-- **"UVLoRA: Monitoramento de Radiação UV com IoT". Nélio Gonçalves Godoi.** Orientador: Prof.: Dr. Roberto Colistete Jr. Trabalho de Conclusão de Curso em Sistemas de Informação da UFES-Alegre, defendido em 12/12/2019. Utilizou medidores microcontroladores MicroPython Pycom LoPy4 em nós LoRa com sensor UV (UltraVioleta), envio de dados via LoRa a nano-gateway LoRa com LoPy4, IoT Cloud UbiDots e Adafruit IO. Operou no final de 2019 por algumas semanas para testes, em Alegre-ES. Conseguiu 4 km de alcance LoRa em ambiente externo no interior de Alegre. Nova versão está sendo desenvolvida;
+### 2019 :
+
+- **"UVLoRA: Monitoramento de Radiação UV com IoT". Nélio Gonçalves Godoi.** Orientador: Prof.: Dr. Roberto Colistete Jr. Trabalho de Conclusão de Curso em Sistemas de Informação da UFES-Alegre, **defendido em 12/12/2019**. Utilizou medidores microcontroladores MicroPython Pycom LoPy4 em nós LoRa com sensor UV (UltraVioleta) usando alimentação por bateria com autonomia entre 1-5 anos, envio de dados via LoRa a nano-gateway LoRa/WiFi com LoPy4, IoT Cloud UbiDots e Adafruit IO. Operou no final de 2019 por algumas semanas para testes, em Alegre-ES. Conseguiu 4 km de alcance LoRa em ambiente externo no interior de Alegre. Nova versão está sendo desenvolvida;
+
+### 2018 :
+
+- **"EstGeiger: Proposta de solução IoT para medição de níveis de radiação com transmissão LoRa". Gabriel Favalesso Fraga.** Orientador: Prof. Dr. Roberto Colistete Jr. Coorientador: Prof. Dr. Moisés Renato Nunes Ribeiro. Projeto de Graduação em Engenharia de Computação da UFES-Vitória, **defendido em 07/12/2018**. Utilizou medidores microcontroladores MicroPython Pycom LoPy4 em nós LoRaWan com medidores Geiger, envio de dados via LoRaWan a nano-gateway LoRaWan/WiFi com LoPy4, servidor LoRaWan TTN (The Things Network), IoT Cloud MyDevices Cayenne e UbiDots. Operou 1 ano e 8 meses em Meaípe/Guarapari-ES, desde 11/2018. Conseguiu 4 km de alcance LoRa em ambiente externo em testes na praia de Camburi e 1 km na praia de Meaípe com gateway no Hotel da Léa (ambiente urbano frente à praia). Nova versão está sendo desenvolvida;
+
+- [EstAcqua](https://informatica.ufes.br/pt-br/pos-graduacao/PPGI/detalhes-da-tese?id=12702) - Estação de monitoramento aquático, projeto de mestrado usando LoRaWan, operou por alguns meses em ambiente externo, no Lago Terra Alta - Linhares, em 2018. Artigo :
+  * HELAL, A. A.; COLISTETE JR., R.; GARCIA, F. C.; BARROSO, G. F.; VILLACA, R. S.. [EstAcqua: Proposta de solução integrada de Hardware, Software e Internet das Coisas para monitoramento ambiental](https://sol.sbc.org.br/index.php/semish/article/view/3432). XXXVIII Congresso da Sociedade Brasileira de Computação (CSBC 2018), 2018, Natal. [45º Seminário Integrado de Software e Hardware 2018 (SEMISH 2018)](https://sol.sbc.org.br/index.php/semish/issue/view/212). Porto Alegre: Sociedade Brasileira de Computação, 2018. v. 45;
+
+### 2017 :
+
+- EstGeoMag- Estação Geomagnética, projeto de mestrado usando servidor web e WiFi, operou durante 11 meses em 2016-2017 em ambiente externo, detectou tempestade Solar;
+
+
+
 
