@@ -2,13 +2,17 @@
 
 Prof. Roberto Colistete Júnior ([CV Lattes](http://lattes.cnpq.br/6503578618806955)) - [UFES/Alegre-ES](https://alegre.ufes.br/) - [CCENS (Centro de Ciências Exatas, Naturais e da Saúde)](https://alegre.ufes.br/ccens/direcao) - [Departamento de Química e Física](https://alegre.ufes.br/ccens/departamento-de-quimica-e-fisica).
 
+### 2020 :
+
+- **"Uso e Aplicações de Sensores Ópticos para Medição de Distâncias". Thiago Ferreira Santos**. Orientador: Roberto Colistete Júnior. Trabalho de Conclusão de Curso em Licenciatura em Física da UFES-Alegre, **defendido em 14/05/2021**. Usou MicroPython em microcontrolador BBC Micro:bit com sensor de distância Sharp GP2Y0A60SZLF e microcontrolador ESP32 em M5StickC com sensor de distância VL53L0X;
+
 ### 2019 :
 
 - **"Confecção de um Pré-protótipo de Magnetômetro Unidimensional". Nathália Gobira Galvão**. Orientador: Roberto Colistete Júnior. Trabalho de Conclusão de Curso em Licenciado em Física da UFES-Alegre, **defendido em 13/12/2019**. Usou MicroPython em microcontrolador BBC Micro:bit com um magnetômetro fluxgate FLC-100 e ADC de 16 bits;
 
 - **"UVLoRA: Monitoramento de Radiação UV com IoT". Nélio Gonçalves Godoi.** Orientador: Roberto Colistete Jr. Trabalho de Conclusão de Curso em Sistemas de Informação da UFES-Alegre, **defendido em 12/12/2019**. Utilizou medidores microcontroladores MicroPython Pycom LoPy4 em nós LoRa com sensor UV (UltraVioleta) usando alimentação por bateria com autonomia entre 1-5 anos, envio de dados via LoRa a nano-gateway LoRa/WiFi com LoPy4, IoT Cloud UbiDots e Adafruit IO. Operou no final de 2019 por algumas semanas para testes, em Alegre-ES. Conseguiu 4 km de alcance LoRa em ambiente externo no interior de Alegre. Nova versão está sendo desenvolvida;
 
-- **"Computação de Alto Desempenho Usando Numba para Cálculo de Agregação de Matéria". Flávio Manoel Santos Hemerli**. Orientador: Roberto Colistete Júnior. Trabalho de Conclusão de Curso em Licenciado em Física da UFES-Alegre, **defendido em 11/07/2019**. Usou Python e Numba para cálculos de simulação de aglomeração de matéria usando paralelismo de CPU e GPU;
+- **"Computação de Alto Desempenho Usando Numba para Cálculo de Agregação de Matéria". Flávio Manoel Santos Hemerli**. Orientador: Roberto Colistete Júnior. Trabalho de Conclusão de Curso em Licenciatura em Física da UFES-Alegre, **defendido em 11/07/2019**. Usou Python e Numba para cálculos de simulação de aglomeração de matéria usando paralelismo de CPU e GPU;
 
 ### 2018 :
 
