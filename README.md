@@ -4,7 +4,9 @@ Prof. Roberto Colistete Júnior ([CV Lattes](http://lattes.cnpq.br/6503578618806
 
 ### 2020 :
 
-- **"Uso e Aplicações de Sensores Ópticos para Medição de Distâncias". Thiago Ferreira Santos**. Orientador: Roberto Colistete Júnior. Trabalho de Conclusão de Curso em Licenciatura em Física da UFES-Alegre, **defendido em 14/05/2021**. Usou MicroPython em microcontrolador BBC Micro:bit com sensor de distância Sharp GP2Y0A60SZLF e microcontrolador ESP32 em M5StickC com sensor de distância VL53L0X;
+- **"Métrica de Buracos Negros: Singularidade, Horizonte de Eventos e Ergosfera". Larissa Degen de Almeida**. Orientador: Roberto Colistete Júnior. Trabalho de Conclusão de Curso em Licenciatura em Física da UFES-Alegre, **defendido em 08/10/2021**. Usou Python e módulo SymPy com submódulo SymPy.Plotting para visualizar as regiões de horizonte de eventos e ergosfera de buracos negros em relação aos parâmetros M, a e Q. Vide [repositório público GitHub 'Larissa-degen/TCC-Buracos-Negros"](https://github.com/Larissa-degen/TCC-Buracos-Negros) com PDF do TCC e arquivos Jupyter Notebook com código-fonte Python e gráficos; 
+
+- **"Uso e Aplicações de Sensores Ópticos para Medição de Distâncias". Thiago Ferreira Santos**. Orientador: Roberto Colistete Júnior. Trabalho de Conclusão de Curso em Licenciatura em Física da UFES-Alegre, **defendido em 14/05/2021**. Usou MicroPython em microcontrolador BBC Micro:bit com sensor de distância Sharp IR GP2Y0A60SZLF e microcontrolador ESP32 em M5StickC com sensor de distância VL53L0X;
 
 ### 2019 :
 
