@@ -2,7 +2,11 @@
 
 Prof. Roberto Colistete Júnior ([CV Lattes](http://lattes.cnpq.br/6503578618806955)) - [UFES/Alegre-ES](https://alegre.ufes.br/) - [CCENS (Centro de Ciências Exatas, Naturais e da Saúde)](https://alegre.ufes.br/ccens/direcao) - [Departamento de Química e Física](https://alegre.ufes.br/ccens/departamento-de-quimica-e-fisica).
 
-### 2020 :
+### 2023 :
+
+- **"Estimativa da Irradiância Solar Global Horizontal Utilizando o Sensor Multiespectral AS7341". Ulisses Calçada Evangelista**. Orientador: Roberto Colistete Júnior. Co-orientador : Cláudio Moisés Ribeiro. Trabalho de Conclusão de Curso em Licenciatura em Física da UFES-Alegre, **defendido em 28/07/2023**. Usou MicroPython em microcontrolador ESP32 com sensor nanoespectrômetro AS7341;
+
+### 2021 :
 
 - **"Métrica de Buracos Negros: Singularidade, Horizonte de Eventos e Ergosfera". Larissa Degen de Almeida**. Orientador: Roberto Colistete Júnior. Trabalho de Conclusão de Curso em Licenciatura em Física da UFES-Alegre, **defendido em 08/10/2021**. Usou Python e módulo SymPy com submódulo SymPy.Plotting para visualizar as regiões de horizonte de eventos e ergosfera de buracos negros em relação aos parâmetros M, a e Q. Vide [repositório público GitHub 'Larissa-degen/TCC-Buracos-Negros"](https://github.com/Larissa-degen/TCC-Buracos-Negros) com PDF do TCC e arquivos Jupyter Notebook com código-fonte Python e gráficos; 
 
